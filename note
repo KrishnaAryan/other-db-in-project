@@ -1,0 +1,6 @@
+paste db in project
+and makemigration
+migrate
+
+run this command
+python manage.py inspectdb > app_name/models.py
